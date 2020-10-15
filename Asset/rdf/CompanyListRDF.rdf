@@ -1,0 +1,367 @@
+<?xml version = "1.0" ?>
+
+<rdf:RDF
+	xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:gn = "http://www.geonames.org/ontology#"
+	xmlns:dc = "http://purl.org/dc/elements/1.1/"
+	xmlns:foaf = "http://xmlns.com/foaf/0.1/">
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Rakyat_Indonesia">
+		<dc:title>Bank Rakyat Indonesia</dc:title>
+		<dc:subject>Jasa keuangan/publik</dc:subject>
+		<dc:identifier>BBRI</dc:identifier>
+		<dc:description>PT Bank Rakyat Indonesia (Persero), Tbk (BRI atau Bank BRI) adalah salah satu bank milik pemerintah terbesar di Indonesia. Awalnya Bank Rakyat Indonesia (BRI) didirikan di Purwokerto, Jawa Tengah oleh Raden Bei Aria Wirjaatmadja dengan nama De Poerwokertosche Hulp en Spaarbank der Inlandsche Hoofden atau "Bank Bantuan dan Simpanan Milik Kaum Priyayi Purwokerto", suatu lembaga keuangan yang melayani orang-orang berkebangsaan Indonesia (pribumi). Lembaga tersebut berdiri tanggal 16 Desember 1895, yang kemudian dijadikan sebagai hari kelahiran BRI.Pada periode setelah kemerdekaan RI, berdasarkan Peraturan Pemerintah No. 1 tahun 1946 Pasal 1 disebutkan bahwa BRI adalah sebagai Bank Pemerintah pertama di Republik Indonesia. Dalam masa perang mempertahankan kemerdekaan pada tahun 1948, kegiatan BRI sempat terhenti untuk sementara waktu dan baru mulai aktif kembali setelah perjanjian Renville pada tahun 1949 dengan berubah nama menjadi Bank Rakyat Indonesia Serikat.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BANK_BRI_logo.svg/375px-BANK_BRI_logo.svg.png</dc:image>
+		<dc:creator>Raden Bei Aria Wirjaatmadja</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>16 Desember 1895</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Simpanan Bank BRI, Tabungan BRI, Deposito BRI, Giro BRI, Pinjaman Mikro BRI, dll.</dc:type>
+		<dc:contributor>60.553</dc:contributor>
+		<dc:relation>162.839</dc:relation>
+		<dc:source rdf:resource ="http://www.bri.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Mandiri">
+		<dc:title>Bank Mandiri</dc:title>
+		<dc:subject>Jasa keuangan</dc:subject>
+		<dc:identifier>BMRI</dc:identifier>
+		<dc:description>Bank Mandiri (IDX: BMRI) adalah bank yang berkantor pusat di Jakarta, dan merupakan bank terbesar di Indonesia dalam hal aset, pinjaman, dan deposit. Bank ini berdiri pada tanggal 2 Oktober 1998 sebagai bagian dari program restrukturisasi perbankan yang dilaksanakan oleh Pemerintah Indonesia. Pada bulan Juli 1999, empat bank milik Pemerintah yaitu, Bank Bumi Daya (BBD), Bank Dagang Negara (BDN), Bank Ekspor Impor Indonesia (Bank Exim), dan Bank Pembangunan Indonesia (Bapindo), digabungkan ke dalam Bank Mandiri.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/f/fa/Bank_Mandiri_logo.svg/330px-Bank_Mandiri_logo.svg.png</dc:image>
+		<dc:creator>Pemerintah Indonesia</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>2 Oktober 1998</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Mandiri Tabungan, Mandiri Deposito, e-Toll Card, dll.</dc:type>
+		<dc:contributor>38.307</dc:contributor>
+		<dc:relation>1.296</dc:relation>
+		<dc:source rdf:resource ="http://www.bankmandiri.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Astra_International">
+		<dc:title>Astra International</dc:title>
+		<dc:subject>Otomotif, jasa keuangan, alat berat, agribisnis, teknologi informasi, infrastruktur</dc:subject>
+		<dc:identifier>ASII</dc:identifier>
+		<dc:description>PT Astra International Tbk didirikan di Jakarta pada tahun 1957 sebagai sebuah perusahaan perdagangan umum dengan nama Astra International Inc. Pada tahun 1990, telah dilakukan perubahan nama menjadi PT Astra International Tbk, dalam rangka penawaran umum perdana saham Perseroan kepada masyarakat, yang dilanjutkan dengan pencatatan saham Perseroan di Bursa Efek Indonesia dengan menggunakan ticker ASII. Nilai kapitalisasi pasar Astra pada akhir tahun 2016 adalah sebesar Rp335,0 triliun.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASTRA_international.svg/375px-ASTRA_international.svg.png</dc:image>
+		<dc:creator>Tjia Kian Tie, William Soerjadjaja dan Liem Peng Hong</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>20 Februari 1957</dc:date>
+		<dc:publisher>Jardine Cycle and Carriage</dc:publisher>
+		<dc:type>Otomotif, jasa keuangan, alat berat, agribisnis, teknologi informasi, infrastruktur, Retail</dc:type>
+		<dc:contributor>221.719</dc:contributor>
+		<dc:relation>2.000</dc:relation>
+		<dc:source rdf:resource ="http://www.astra.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Telkomsel">
+		<dc:title>Telkomsel</dc:title>
+		<dc:subject>Operator telekomunikasi seluler</dc:subject>
+		<dc:identifier>TLKM</dc:identifier>
+		<dc:description>Telkomsel adalah salah satu perusahaan operator telekomunikasi seluler di Indonesia. Pada tahun 1993 PT Telkom mulai merambah teknologi nirkabel GSM, pada tahun selanjutnya, pada 1994 PT Satelit Palapa Indonesia operator jaringan GSM pertama di Indonesia yang mengeluarkan kartu SIM muncul. PT Telkomsel kemudian didirikan bersama Indosat pada tahun 1995 dan meluncurkan kartu Halo pada tanggal 26 Mei 1995 sebagai layanan paska bayar. Pada tahun 2015 Saham Telkomsel dimiliki oleh Telkom Indonesia sebesar 65% dan sisanya oleh Singtel sebesar 35%. Telkomsel menjadi operator telekomunikasi seluler terbesar di Indonesia dengan 139,3 juta pelanggan per 31 Desember 2014 dan pangsa pasar sebesar 51% per 1 Januari 2007.[butuh rujukan] Jaringan Telkomsel telah mencakup 288 jaringan roaming internasional di 155 negara pada akhir tahun 2007. Telkomsel telah menjadi operator seluler ketujuh di dunia yang mempunyai lebih dari 100 juta pelanggan dalam satu negara per Mei 2011. Telkomsel meluncurkan secara resmi layanan komersial mobile 4G LTE pertama di Indonesia. Layanan Telkomsel 4G LTE memiliki kecepatan data access mencapai 36 Mbps.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/8/83/Telkomsel_Logo.svg</dc:image>
+		<dc:creator>PT Telkom</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>26 Mei 1995</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>kartuHalo, simPATI, Kartu AS, LOOP, Kartu Facebook, by.U (kerjasama dengan Circles.Life Singapore), Kartu Prima, Telkomsel Flash</dc:type>
+		<dc:contributor>27.000</dc:contributor>
+		<dc:relation>1.542</dc:relation>
+		<dc:source rdf:resource ="http://www.telkomsel.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Pertamina">
+
+		<dc:title>Pertamina</dc:title>
+		<dc:subject>Minyak dan gas bumi</dc:subject>
+		<dc:identifier>BUMN20</dc:identifier>
+		<dc:description>Pertamina (dahulu bernama Perusahaan Pertambangan Minyak dan Gas Bumi Negara) atau nama resminya PT Pertamina (Persero) adalah sebuah BUMN yang bertugas mengelola penambangan minyak dan gas bumi di Indonesia. Pertamina masuk urutan ke 122 dalam Fortune Global 500 pada tahun 2013Pertamina pernah mempunyai monopoli pendirian SPBU di Indonesia, namun monopoli tersebut telah dihapuskan pemerintah pada tahun 2001. Perusahaan ini juga mengoperasikan 7 kilang minyak dengan kapasitas total 1.051,7 MBSD, pabrik petrokimia dengan kapasitas total 1.507.950 ton per tahun dan pabrik LPG dengan kapasitas total 102,3 juta ton per tahun.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pertamina_Logo.svg/375px-Pertamina_Logo.svg.png</dc:image>
+		<dc:creator>Ibnu Sutowo</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>10 Desember 1957</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Bahan bakar, Pelumas, Petrokimia</dc:type>
+		<dc:contributor>27.318</dc:contributor>
+		<dc:relation>7.455</dc:relation>
+		<dc:source rdf:resource ="http://pertamina.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Central_Asia">
+
+		<dc:title>Bank Central Asia</dc:title>
+		<dc:subject>Jasa keuangan/Publik</dc:subject>
+		<dc:identifier>BBCA</dc:identifier>
+		<dc:description>PT Bank Central Asia Tbk (BCA) (IDX: BBCA) adalah bank swasta terbesar di Indonesia. Bank ini didirikan pada 21 Februari 1957 dengan nama Bank Central Asia NV dan pernah menjadi bagian penting dari Salim Group. Sekarang bank ini dimiliki oleh salah satu grup produsen rokok terbesar keempat di Indonesia, Djarum. Pada tahun 1955 NV Perseroan Dagang Dan Industrie Semarang Knitting Factory berdiri sebagai cikal bakal Bank Central Asia (BCA). BCA didirikan oleh Sudono Salim pada tanggal 21 Februari 1957 dan berkantor pusat di Jakarta. Pada tanggal 1 Mei 1975, pengusaha Mochtar Riady bergabung di BCA. Ia memperbaiki sistem kerja di bank tersebut dan merapikan arsip-arsip bank yang kala itu ruangannya jadi sarang laba-laba.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/e/e0/BCA_logo.svg/300px-BCA_logo.svg.png</dc:image>
+		<dc:creator>Liem Sioe Liong</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>10 Desember 1957</dc:date>
+		<dc:publisher>Djarum</dc:publisher>
+		<dc:type>BCA Mobile, Halo BCA, BCA Syariah, BCA Remmitance</dc:type>
+		<dc:contributor>250.073</dc:contributor>
+		<dc:relation>1.246</dc:relation>
+		<dc:source rdf:resource ="http://www.bca.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Telkom_Indonesia">
+
+		<dc:title>Telkom Indonesia</dc:title>
+		<dc:subject>Telekomunikasi dan informasi</dc:subject>
+		<dc:identifier>TLKM, NYSE: TLK</dc:identifier>
+		<dc:description>PT Telekomunikasi Indonesia (Persero) Tbk, biasa disebut Telkom Indonesia atau Telkom saja (IDX: TLKM, NYSE: TLK) adalah perusahaan informasi dan komunikasi serta penyedia jasa dan jaringan telekomunikasi secara lengkap di Indonesia. Telkom mengklaim sebagai perusahaan telekomunikasi terbesar di Indonesia, dengan jumlah pelanggan telepon tetap sebanyak 15 juta dan pelanggan telepon seluler sebanyak 104 juta.Telkom merupakan salah satu BUMN yang 52,09% sahamnya saat ini dimiliki oleh Pemerintah Indonesia, dan 47,91% dimiliki oleh publik. Telkom juga menjadi pemegang saham mayoritas di 13 anak perusahaan, seperti PT Telekomunikasi Seluler (Telkomsel), Telkom Akses, Telkom Metra., PT PINS Indonesia. Direktur Utama Telkom saat ini adalah Ririek Adriansyah yang diangkat berdasarkan hasil Rapat Umum Pemegang Saham Tahunan (RUPST) Telkom Tahun Buku 2018 pada 24 Mei 2019.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/375px-Telkom_Indonesia_2013.svg.png</dc:image>
+		<dc:creator>Pemerintah Indonesia</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>23 Oktober 1856</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Telepon Tetap, Seluler, Aplikasi, Konten, Komunikasi dc, Properti dan Konstruksi</dc:type>
+		<dc:contributor>23.876</dc:contributor>
+		<dc:relation>1.542</dc:relation>
+		<dc:source rdf:resource ="http://www.telkom.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Negara_Indonesia">
+
+		<dc:title>Bank Negara Indonesia</dc:title>
+		<dc:subject>Perbankan, Pelayanan finansial</dc:subject>
+		<dc:identifier>BBNI</dc:identifier>
+		<dc:description>Bank Negara Indonesia atau BNI (IDX: BBNI) adalah sebuah institusi bank milik pemerintah, dalam hal ini adalah perusahaan BUMN, di Indonesia. Dalam struktur manajemen organisasinya, Bank Negara Indonesia (BNI), dipimpin oleh seorang Direktur Utama yang saat ini dijabat oleh Achmad Baiquni. Bank Negara Indonesia (BNI) adalah bank komersial tertua dalam sejarah Republik Indonesia. Bank ini didirikan pada tanggal 5 Juli tahun 1946. Saat ini BNI mempunyai 1,076 kantor cabang di Indonesia dan 5 di luar negeri. BNI juga mempunyai unit perbankan syariah, Namun sejak 2010 telah spin off (Memisahkan diri), yang dinamakan BNI Syariah. PT Bank Negara Indonesia Tbk didirikan oleh Margono Djojohadikusumo, yang merupakan satu dari anggota BPUPKI, lalu mendirikan bank sirkulasi/sentral yang bertanggung jawab menerbitkan dan mengelola mata uang RI. Margono berjasa besar atas perkembangan bisnis atau usaha perbankan di Indonesia. Karena Margono adalah seorang pionir, maka dia berhasil menanamkan nilai-nilai dan cara pandang bisnis perbankan di Indonesia, menggantikan peranan De Javasche Bank pada era penjajahan.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/5/55/BNI_logo.svg/300px-BNI_logo.svg.png</dc:image>
+		<dc:creator>Margono Djojohadikusumo</dc:creator>
+		<dc:coverage>Jakarta, Indonesia</dc:coverage>
+		<dc:date>5 Juli 1946</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Perbankan perseorangan, Perbankan perusahaan, Kartu Kresit, Investasi, Deposito, Perbankan privat</dc:type>
+		<dc:contributor>24,861</dc:contributor>
+		<dc:relation>1,076</dc:relation>
+		<dc:source rdf:resource ="http://www.bni.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/HM_Sampoerna">
+
+		<dc:title>HM Sampoerna</dc:title>
+		<dc:subject>Tembakau</dc:subject>
+		<dc:identifier>HMSP</dc:identifier>
+		<dc:description>PT HM Sampoerna Tbk/Hanjaya Mandala Sampoerna (IDX: HMSP) adalah perusahaan rokok terbesar pertama di Indonesia. Kantor pusatnya berada di Surabaya, Jawa Timur. Perusahaan ini sebelumnya merupakan perusahaan yang dimiliki keluarga Sampoerna, namun sejak Mei 2005 kepemilikan mayoritasnya berpindah tangan ke Philip Morris International (Altria Group), perusahaan rokok terbesar di dunia dari Amerika Serikat, mengakhiri tradisi keluarga yang melebihi 90 tahun. Beberapa merek rokok terkenal dari Sampoerna adalah Dji Sam Soe dan A Mild. Dji Sam Soe adalah merek lama yang telah bertahan sejak masa awal perusahaan tersebut. Selain itu, perusahaan ini juga terkenal karena iklannya yang kreatif di media massa. Pada tahun 2013, PT HM Sampoerna memenangkan Anugerah Produk Pertanian Berdaya Saing kategori CSR. Presiden Direktur PT HM Sampoerna Tbk., Paul Norman Janelle, mengumumkan pabrik SKM (Sigaret Kretek Mesin) baru di Karawang yang diresmikan pertengahan tahun 2014 akan difokuskan untuk tujuan ekspor.</dc:description>
+		<dc:image>https://www.sampoerna.com/resources/images/default-source/indonesia-market/sampoerna_logo.tmb-mobile.png</dc:image>
+		<dc:creator>Liem Seeng Tee</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>27 Agustus 1913</dc:date>
+		<dc:publisher>Philip Morris International</dc:publisher>
+		<dc:type>Rokok kretek</dc:type>
+		<dc:contributor>29.225</dc:contributor>
+		<dc:relation>114</dc:relation>
+		<dc:source rdf:resource ="http://www.sampoerna.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Perusahaan_Gas_Negara">
+
+		<dc:title>Perusahaan Gas Negara</dc:title>
+		<dc:subject>Transmisi dan distribusi gas bumi</dc:subject>
+		<dc:identifier>PGAS</dc:identifier>
+		<dc:description>PT Perusahaan Gas Negara (Persero) Tbk disingkat PGN (IDX: PGAS) adalah sebuah BUMN yang bergerak di bidang transmisi dan distribusi gas bumi. Semula pengusahaan gas di Indonesia adalah perusahaan gas swasta Belanda yang bernama I.J.N. Eindhoven Co berdiri pada tahun 1859 dengan memperkenalkan penggunaan gas kota di Indonesia yang terbuat dari batu bara. Proses peralihan kekuasaan kembali terjadi di akhir Perang Dunia II pada Agustus 1945, saat Jepang menyerah kepada sekutu. Kesempatan ini dimanfaatkan oleh para pemuda dan buruh listrik melalui delegasi Buruh/Pegawai Listrik dan Gas yang bersama-sama dengan Pimpinan KNI Pusat berinisiatif menghadap Soekarno untuk menyerahkan perusahaan-perusahaan tersebut kepada Pemerintah Indonesia.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/8/8d/PGN_logo.svg</dc:image>
+		<dc:creator>Ir. Soekarno</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>13 Mei 1965</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>Gas bumi</dc:type>
+		<dc:contributor>1.426</dc:contributor>
+		<dc:relation>200</dc:relation>
+		<dc:source rdf:resource ="http://pgn.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Hero_Supermarket_Group">
+
+		<dc:title>Hero Supermarket Group</dc:title>
+		<dc:subject>Perusahaan Ritel Modern</dc:subject>
+		<dc:identifier>HERO</dc:identifier>
+		<dc:description>PT Hero Supermarket Tbk (IDX: HERO) adalah perusahaan ritel yang memiliki banyak cabang di Indonesia. Hero Supermarket Group adalah perusahaan ritel modern pertama di Indonesia, didirikan tanggal 23 Agustus 1971 oleh almarhum Muhammad Saleh Kurnia di Jalan Falatehan. Saat ini, Hero Supermarket Group merupakan suatu grup ritel yang memiliki berbagai format sebagai berikut: Hero (supermarket), Giant (hypermarket supermarket), Guardian (toko obat), Starmart (mini-market), IKEA (pusat perabotan)</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hero_Supermarket.svg/375px-Hero_Supermarket.svg.png</dc:image>
+		<dc:creator>Muhammad Saleh Kurnia</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>23 Agustus 1971</dc:date>
+		<dc:publisher>Mulgrave Corporation B.V.</dc:publisher>
+		<dc:type>Hero (supermarket), Giant (hypermarket and supermarket), Guardian (toko obat), Starmart (mini-market), IKEA (pusat perabotan)</dc:type>
+		<dc:contributor>15.490</dc:contributor>
+		<dc:relation>400</dc:relation>
+		<dc:source rdf:resource ="http://www.hero.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Unilever_Indonesia">
+
+		<dc:title>Unilever Indonesia</dc:title>
+		<dc:subject>Barang Rumah Tangga</dc:subject>
+		<dc:identifier>UNVR</dc:identifier>
+		<dc:description>PT Unilever Indonesia Tbk (IDX: UNVR) adalah perusahaan Indonesia yang merupakan anak perusahaan dari Unilever. Perusahaan ini sebelumnya bernama Lever Zeepfabrieken N.V. Unilever Indonesia didirikan pada 5 Desember 1933 sebagai Lever Zeepfabrieken N.V. Pada 22 Juli 1980, nama perusahaan diubah menjadi PT Lever Brothers Indonesia dan pada 30 Juni 1990, nama perusahaan diubah menjadi PT Unilever Indonesia Tbk. Unilever Indonesia melepas 15% sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya pada tahun 1981. Unilever Indonesia mempunyai lebih dari 1.000 distributor di seluruh Indonesia.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/3/37/Unilever.png/225px-Unilever.png</dc:image>
+		<dc:creator>Lever Brothers</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>5 Desember‎ ‎1933</dc:date>
+		<dc:publisher>Unilever</dc:publisher>
+		<dc:type>Makanan, minuman, pembersih, dan produk perawatan tubuh</dc:type>
+		<dc:contributor>6000</dc:contributor>
+		<dc:relation>1.000</dc:relation>
+		<dc:source rdf:resource ="http://www.unilever.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Gudang_Garam">
+
+		<dc:title>Gudang Garam</dc:title>
+		<dc:subject>Merek/perusahaan produsen rokok</dc:subject>
+		<dc:identifier>GGRM</dc:identifier>
+		<dc:description>PT Gudang Garam Tbk (IDX: GGRM) adalah sebuah merek/perusahaan produsen rokok terbesar dan terpopuler asal Indonesia. Didirikan pada 26 Juni 1958 oleh Surya Wonowidjojo, perusahaan rokok ini merupakan peringkat pertama dan terbesar kelima di Indonesia menurut tahun pendiriannya (jika dibandingkan perusahaan rokok nasional lainya seperti Nojorono dan Djarum di Kudus) dalam produksi rokok kretek. Perusahaan ini memiliki kompleks tembakau sebesar 514 are di Kediri, Jawa Timur.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/Gudang_Garam_TBK_logo.png/330px-Gudang_Garam_TBK_logo.png</dc:image>
+		<dc:creator>Surya Wonowidjojo</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>26 Juni 1958</dc:date>
+		<dc:publisher>Susilo Wonowidjojo</dc:publisher>
+		<dc:type>Rokok</dc:type>
+		<dc:contributor>63.300</dc:contributor>
+		<dc:relation>356</dc:relation>
+		<dc:source rdf:resource ="http://www.gudanggaramtbk.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Adaro_Energy">
+
+		<dc:title>Adaro Energy</dc:title>
+		<dc:subject>Pertambangan</dc:subject>
+		<dc:identifier>ADRO</dc:identifier>
+		<dc:description>Adaro Energy Tbk.(Kode saham pada BEI:ADRO.JK) adalah Perusahaan Indonesia yang merupakan produsen batu bara terbesar di belahan bumi selatan dan keempat terbesar di dunia. CEO Garibaldi Thohir (orang indonesia) memiliki kira-kira seperenam saham dari Adaro, senilai lebih dari $ 1 miliar. Tahun ini keuntungan bersih perusahaan ini membaik kembali setelah jatuh 47% tahun lalu menjadi $ 245.000.000 (pada penurunan 4% dalam pendapatan menjadi $ 2,7 miliar). Pada semester pertama tahun ini Adaro sudah mendapatkan keuntungan bersih mencapai $ 268 juta, naik 113% dibandingkan periode yang sama tahun sebelumnya. Pendapatan naik 36% menjadi $ 1,8 miliar.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/1/1d/Adaro_energy.jpeg</dc:image>
+		<dc:creator>ENADIMSA</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>10 September 1966</dc:date>
+		<dc:publisher>Garibaldi Thohir</dc:publisher>
+		<dc:type>Batubara</dc:type>
+		<dc:contributor>8.681</dc:contributor>
+		<dc:relation>200</dc:relation>
+		<dc:source rdf:resource ="http://www.adaro.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Indofood">
+
+		<dc:title>Indofood</dc:title>
+		<dc:subject>Makanan dan minuman</dc:subject>
+		<dc:identifier>INDF</dc:identifier>
+		<dc:description>PT. Indofood Sukses Makmur Tbk. (IDX: INDF) dan PT. Indofood CBP Sukses Makmur Tbk. (IDX: ICBP) merupakan produsen berbagai jenis makanan dan minuman yang bermarkas di Jakarta, Indonesia. Perusahaan ini didirikan pada tanggal 14 Agustus 1990 oleh Sudono Salim dengan nama PT. Panganjaya Intikusuma yang pada tanggal 5 Februari 1994 menjadi Indofood Sukses Makmur. Perusahaan ini mengekspor bahan makanannya hingga Australia, Asia, dan Eropa. Dalam beberapa dekade ini Indofood telah bertransformasi menjadi sebuah perusahaan total food solutions dengan kegiatan operasional yang mencakup seluruh tahapan proses produksi makanan, mulai dari produksi dan pengolahan bahan baku hingga menjadi produk akhir yang tersedia di rak para pedagang eceran.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Indofood_logo-id.svg/330px-Indofood_logo-id.svg.png</dc:image>
+		<dc:creator>Sudono Salim dan Peter Santoso</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>14 Agustus 1990</dc:date>
+		<dc:publisher>Garibaldi Thohir</dc:publisher>
+		<dc:type>Mi, es krim, makanan ringan, biskuit, tepung terigu, sirup, susu, minyak goreng, pasta</dc:type>
+		<dc:contributor>70.000</dc:contributor>
+		<dc:relation>1500</dc:relation>
+		<dc:source rdf:resource ="https://www.indofood.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Danamon_Indonesia">
+
+		<dc:title>Bank Danamon Indonesia</dc:title>
+		<dc:subject>Jasa keuangan</dc:subject>
+		<dc:identifier>BDMN</dc:identifier>
+		<dc:description>Sebelumnya bernama Bank Kopra Indonesia) atau lebih dikenal dengan nama Bank Danamon atau Danamon saja, adalah sebuah bank di Indonesia. Bank Danamon didirikan pada tanggal 16 Juli 1956 dengan nama PT Bank Kopra Indonesia. Pada tahun 1976 nama bank ini berubah menjadi PT Bank Danamon Indonesia. Bank ini menjadi bank pertama yang memelopori pertukaran mata uang asing dengan menjadi bank devisa pertama di Indonesia pada tahun 1976 dan tercatat sahamnya di bursa sejak tahun 1989.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/7/7b/Danamon.svg/330px-Danamon.svg.png</dc:image>
+		<dc:creator>Daud Badaruddin dan Roesli Halil</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>16 Juli 1956</dc:date>
+		<dc:publisher>Mitsubishi UFJ Financial Group</dc:publisher>
+		<dc:type>Keuangan</dc:type>
+		<dc:contributor>26.389</dc:contributor>
+		<dc:relation>941</dc:relation>
+		<dc:source rdf:resource ="http://www.danamon.co.id/"/>
+
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_Tabungan_Negara">
+
+		<dc:title>Bank Tabungan Negara</dc:title>
+		<dc:subject>Jasa keuangan</dc:subject>
+		<dc:identifier>BBTN</dc:identifier>
+		<dc:description>Bank Tabungan Negara atau BTN (IDX: BBTN) adalah Badan Usaha Milik Negara Indonesia yang berbentuk perseroan terbatas dan bergerak di bidang jasa keuangan perbankan. Sejak tahun 2012, bank ini dipimpin oleh Maryono sebagai direktur utama. Buku tabungan Postspaarbank (kini Bank Tabungan Negara) pada tahun 1939 Cikal bakal BTN dimulai dengan didirikannya Postspaarbank di Batavia pada tahun 1897. Pada tahun 1942, sejak masa pendudukan Jepang di Indonesia, bank ini dibekukan dan digantikan dengan Tyokin Kyoku. Setelah proklamasi kemerdekaan Indonesia bank ini diambil alih oleh pemerintah Indonesia dan diubah menjadi Kantor Tabungan Pos. Nama dan bentuk perusahaan selanjutnya berubah beberapa kali hingga akhirnya pada tahun 1963 diubah menjadi nama dan bentuk resmi yang berlaku saat ini.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bank_BTN_logo.svg/375px-Bank_BTN_logo.svg.png</dc:image>
+		<dc:creator>Pemerintah Indonesia</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>9 Februari 1950</dc:date>
+		<dc:publisher>Kementerian BUMN</dc:publisher>
+		<dc:type>Tabungan BTN Batara, TabunganKu BTN, Tabungan BTN e Batarapos, Tabungan BTN Prima</dc:type>
+		<dc:contributor>8000</dc:contributor>
+		<dc:relation>133</dc:relation>
+		<dc:source rdf:resource ="http://www.btn.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Semen_Indonesia">
+
+		<dc:title>Semen Indonesia</dc:title>
+		<dc:subject>Semen</dc:subject>
+		<dc:identifier>SMGR</dc:identifier>
+		<dc:description>PT Semen Indonesia (Persero) Tbk (dahulu PT Semen Gresik (Persero) Tbk) adalah produsen semen yang terbesar di Indonesia. Pada tanggal 20 Desember 2012, PT Semen Indonesia (Persero) Tbk resmi berganti nama dari sebelumnya bernama PT Semen Gresik (Persero) Tbk[2]. Diresmikan di Gresik pada tanggal 7 Agustus 1957 oleh Presiden RI pertama dengan kapasitas terpasang 250.000 ton semen per tahun. Pada tanggal 8 Juli 1991 Semen Gresik tercatat di Bursa Efek Jakarta dan Bursa Efek Surabaya sehingga menjadikannya BUMN pertama yang go public dengan menjual 40 juta lembar saham kepada masyarakat. Pada tanggal 20 Desember 2012, melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Perseroan, resmi mengganti nama dari PT Semen Gresik (Persero) Tbk, menjadi PT Semen Indonesia (Persero) Tbk. Penggantian nama tersebut, sekaligus merupakan langkah awal dari upaya merealisasikan terbentuknya Strategic Holding Group yang ditargetkan dan diyakini mampu mensinergikan seluruh kegiatan operasional. Saat ini kapasitas terpasang Semen Indonesia sebesar 29 juta ton semen per tahun, dan menguasai sekitar 42% pangsa pasar semen domen domestik. Semen Indonesia memiliki anak perusahaan PT Semen Gresik, PT Semen Padang, PT Semen Tonasa dan Thang Long Cement.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Semen_Indonesia_logo_%28svg%29.svg/375px-Semen_Indonesia_logo_%28svg%29.svg.png</dc:image>
+		<dc:creator>Ir. Soekarno</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date>7 Agustus 1957</dc:date>
+		<dc:publisher>Pemerintah Indonesia</dc:publisher>
+		<dc:type>PT Semen Gresik, PT Semen Padang, PT Semen Tonasa, dan Thang Long Cement</dc:type>
+		<dc:contributor>7.252</dc:contributor>
+		<dc:relation>108</dc:relation>
+		<dc:source rdf:resource ="http://semenindonesia.com/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Kalbe_Farma">
+
+		<dc:title>Kalbe Farma</dc:title>
+		<dc:subject>Farmasi, produk nutrisi, distribusi dan logistik, alat kesehatan</dc:subject>
+		<dc:identifier>KLBF</dc:identifier>
+		<dc:description>PT Kalbe Farma Tbk (IDX: KLBF) merupakan perusahaan internasional yang memproduksi farmasi, suplemen, nutrisi dan layanan kesehatan yang bermarkas di Jakarta, Indonesia. Perusahaan ini menghasilkan berbagai macam-macam bahan farmasi. Kalbe Farma memiliki motto Innovation for a Better Life. Kalbe Group menangani beberapa portofolio merek untuk produk obat resep, obat bebas, minuman energi dan nutrisi, yang dilengkapi dengan kekuatan bisnis usaha kemasan dan distribusi.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kalbe_Farma.svg/375px-Kalbe_Farma.svg.png</dc:image>
+		<dc:creator>Boenjamin Setiawan</dc:creator>
+		<dc:coverage>Seluruh Dunia</dc:coverage>
+		<dc:date>7 Agustus 1957</dc:date>
+		<dc:publisher>Kalbe Group</dc:publisher>
+		<dc:type>Farmasi</dc:type>
+		<dc:contributor>17.000</dc:contributor>
+		<dc:relation>800</dc:relation>
+		<dc:source rdf:resource ="http://www.kalbe.co.id/"/>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about = "https://id.wikipedia.org/wiki/Bank_BTPN">
+
+		<dc:title>Bank BTPN</dc:title>
+		<dc:subject>Jasa Keuangan</dc:subject>
+		<dc:identifier>BTPN</dc:identifier>
+		<dc:description>Bank BTPN (secara resmi dikenal sebagai Bank Tabungan Pensiunan Nasional hingga 31 Januari 2019) adalah perusahaan yang bergerak di bidang perbankan, yang berdiri sejak 1958, dan berkantor pusat di Jakarta (sebelumnya di Bandung). Bank ini berstatus Bank Devisa. Bank BTPN yang awalnya merupakan singkatan dari Bank Tabungan Pensiunan Nasional ini terlahir dari pemikiran 7 (tujuh) orang dalam suatu perkumpulan pegawai pensiunan militer pada tahun 1958 di Bandung. Ketujuh serangkai tersebut kemudian mendirikan Perkumpulan Bank Pegawai Pensiunan Militer (selanjutnya disebut BAPEMIL) dengan status usaha sebagai perkumpulan yang menerima simpanan dan memberikan pinjaman kepada para anggotanya. BAPEMIL memiliki tujuan yang mulia yakni membantu meringankan beban ekonomi para pensiunan, baik Angkatan Bersenjata Republik Indonesia maupun sipil, yang ketika itu pada umumnya sangat kesulitan bahkan banyak yang terjerat rentenir.</dc:description>
+		<dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/8/8d/Logo_BTPN.svg/330px-Logo_BTPN.svg.png</dc:image>
+		<dc:creator>Martua Radja Laut Siahaan</dc:creator>
+		<dc:coverage>Indonesia</dc:coverage>
+		<dc:date> Februari 1958 </dc:date>
+		<dc:publisher>Sumitomo Mitsui Financial Group</dc:publisher>
+		<dc:type>BTPN Sinaya, BTPN Taseto Mapan, BTPN Taseto Bisnis, dll</dc:type>
+		<dc:contributor>20.912</dc:contributor>
+		<dc:relation>940</dc:relation>
+		<dc:source rdf:resource ="http://www.btpn.com/"/>
+	</rdf:Description>
+	
+</rdf:RDF>
